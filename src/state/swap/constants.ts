@@ -1,0 +1,4 @@
+// BNB
+export const DEFAULT_INPUT_CURRENCY = 'BNB'
+// ChocolateSwap
+export const DEFAULT_OUTPUT_CURRENCY = '0x0b860C7e48F08b464F8D9ce12f0b4cB4d06FBb38'
